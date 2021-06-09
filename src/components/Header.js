@@ -29,7 +29,9 @@ const Header = () => {
                             className='inline-block'
                         />
                     </h1>
-                    <button className='bg-yellow-500 mt-10 py-2 px-10 rounded-full text-xl hover:bg-yellow-300 transition duration-300 ease-in-out animate-bounce'>DOWNLOAD CV</button>
+                    <button className='bg-yellow-500 mt-10 py-2 px-10 rounded-full text-xl hover:bg-yellow-300 transition duration-300 ease-in-out animate-bounce'>
+                        <a href="https://drive.google.com/uc?export=download&id=1AtkrlxzmB1bK5K1vMIvjYlUZRnhmX_59">DOWNLOAD CV</a>
+                    </button>
                 </div>
             </div>
         </div>
