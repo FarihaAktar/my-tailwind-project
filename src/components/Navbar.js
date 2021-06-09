@@ -7,8 +7,8 @@ const Navbar = () => {
             <Link to="/" className='pl-8 font-bold text-2xl'>S <span className='w-1 h-1 bg-gray-50 inline-block rounded-full'></span> U</Link>
             
             <div className='pr-8 md:block '>
-                <Link to='/' className='p-4 hover:text-green-400'>Home</Link>
-                <Link to='/contact' className='p-4 hover:text-green-400'>Contact</Link>
+                <Link to='/' className='p-4 hover:text-yellow-500'>Home</Link>
+                <Link to='/contact' className='p-4 hover:text-yellow-500'>Contact</Link>
             </div>
         </nav>
     );
